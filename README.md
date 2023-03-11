@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Unique-Character-Sequence</h1>
 <h3 align="center">A passionate frontend developer from Moldova</h3>
 
 - 🔭 I’m currently working on [Rick and Morty Adventures](https://github.com/Unique-Character-Sequence/team_rickandmorty_adventures)
