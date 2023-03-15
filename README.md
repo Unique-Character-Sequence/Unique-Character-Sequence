@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm  Pilici Rustam</h1>
 <h3 align="center">A passionate frontend developer from Moldova</h3>
 
-- 🔭 I’m currently working on [Rick and Morty Adventures](https://github.com/Unique-Character-Sequence/team_rickandmorty_adventures)
+- 🔭 I’m currently working on [Rick and Morty Adventures](https://github.com/Unique-Character-Sequence/rickandmorty-story-machine)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React tech stack**
 
-- 👯 I’m looking to collaborate on [the named project](https://github.com/Unique-Character-Sequence/team_rickandmorty_adventures)
+- 👯 I’m looking to collaborate on [the named project](https://github.com/Unique-Character-Sequence/rickandmorty-story-machine)
 
 - 📫 How to reach me **paroli7328129ad@gmail.com**
 
