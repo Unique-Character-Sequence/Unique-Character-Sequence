@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [the named project](https://github.com/Unique-Character-Sequence/rickandmorty-story-machine)
 
-- 📫 How to reach me **paroli7328129ad@gmail.com**
+- 📫 How to reach me **pilici.rustam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
