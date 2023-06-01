@@ -13,7 +13,9 @@
 
 <h3 align="left">Skills and Learning:</h3>
 
-- 🌱 I’m currently honing my skills in building dynamic web applications using the powerful combination of **React** & **Redux Toolkit** and crafting visually appealing user interfaces with **Material UI**. I'm also incorporating **responsive design** principles to ensure seamless user experiences across devices.
+
+- 🌱 I’m currently learning and applying **React**, **Redux Toolkit**, and **Material UI** tech stack to build dynamic web applications and create visually appealing user interfaces. 
+- 📱 Additionally, I'm incorporating **responsive design** principles to ensure seamless user experiences across devices.
 
 <h3 align="left">Contact Me:</h3>
 
