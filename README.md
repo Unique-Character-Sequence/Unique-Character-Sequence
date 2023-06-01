@@ -10,7 +10,7 @@
 - 📫 How to reach me **pilici.rustam@gmail.com**
 
 <h3 align="left">Connect with me on Telegram:</h3>
-- **@aveDeaNocti**
+- **@aveDeaNocti
 <p align="left">
 </p>
 
