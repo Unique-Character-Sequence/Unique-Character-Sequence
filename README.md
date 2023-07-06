@@ -10,11 +10,12 @@
 <h3 align="left">Current Projects:</h3>
 
 - 🔭 I’m currently working on [Java Academy (Portfolio Project)](https://github.com/Unique-Character-Sequence/java-academy-portfolio)
+<a href="https://java-academy-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/-View Live Demo-2B9348?style=for-the-badge" alt="View Working Demo"/>
+  </a>
+<h3 align="left">Skills:</h3>
 
-<h3 align="left">Skills and Learning:</h3>
-
-
-- 🌱 I’m currently learning and applying **React**, **Redux Toolkit**, and **Material UI** tech stack to build dynamic web applications and create visually appealing user interfaces. 
+- 📚 I have experience in **React**, **Redux Toolkit**, **Typescript**, **SASS**, and **Material UI** tech stack.
 - 📱 Additionally, I'm incorporating **responsive design** principles to ensure seamless user experiences across devices.
 
 <h3 align="left">Contact Me:</h3>
