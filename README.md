@@ -15,8 +15,8 @@
   </a>
 <h3 align="left">Skills:</h3>
 
-- 📚 I have experience in **React**, **Redux Toolkit**, **Typescript**, **SASS**, and **Material UI** tech stack.
-- 📱 Additionally, I'm incorporating **responsive design** principles to ensure seamless user experiences across devices.
+- 📚 I have experience in **React**, **Redux Toolkit**, **Typescript**, **SASS**, **axios**, **Formik+Yup**, **redux-persist** and **Material UI** tech stack.
+- 📱 Additionally, I'm incorporating **responsive design** to ensure seamless user experiences across devices.
 
 <h3 align="left">Contact Me:</h3>
 
