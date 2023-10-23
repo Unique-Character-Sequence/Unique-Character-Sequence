@@ -7,9 +7,9 @@
 - 🚀 Open to frontend development roles
 - 🌍 Ready to contribute and grow in a dynamic team
 
-<h3 align="left">Current Projects:</h3>
+<h3 align="left">Finished Projects:</h3>
 
-- 🔭 I’m currently working on [Java Academy (Portfolio Project)](https://github.com/Unique-Character-Sequence/java-academy-portfolio)
+- 🔭 [Java Academy (Portfolio Project)](https://github.com/Unique-Character-Sequence/java-academy-portfolio)
 <a href="https://java-academy-portfolio.netlify.app">
     <img src="https://img.shields.io/badge/-View Live Demo-2B9348?style=for-the-badge" alt="View Working Demo"/>
   </a>
