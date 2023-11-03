@@ -9,10 +9,12 @@
 
 <h3 align="left">Finished Projects:</h3>
 
-- 🔭 [Java Academy (Portfolio Project)](https://github.com/Unique-Character-Sequence/java-academy-portfolio)
-<a href="https://java-academy-portfolio.netlify.app">
-    <img src="https://img.shields.io/badge/-View Live Demo-2B9348?style=for-the-badge" alt="View Working Demo"/>
-  </a>
+<!-- Project 1: Java Academy (Portfolio Project) -->
+- 🔭 [Java Academy](https://github.com/Unique-Character-Sequence/java-academy-portfolio)
+
+<!-- Project 2: Big Lapik Crypto (React Redux App) -->
+- 🌟 [Big Lapik Crypto](https://github.com/Unique-Character-Sequence/your-repo-link)
+
 <h3 align="left">Skills:</h3>
 
 - 📚 I have experience in **React**, **Redux Toolkit**, **Typescript**, **SASS**, **axios**, **Formik+Yup**, **redux-persist** and **Material UI** tech stack.
