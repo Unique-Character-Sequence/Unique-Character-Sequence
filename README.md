@@ -13,7 +13,7 @@
 - 🔭 [Java Academy](https://github.com/Unique-Character-Sequence/java-academy-portfolio)
 
 <!-- Project 2: Big Lapik Crypto (React Redux App) -->
-- 🌟 [Big Lapik Crypto](https://github.com/Unique-Character-Sequence/your-repo-link)
+- 🌟 [Big Lapik Crypto](https://github.com/Unique-Character-Sequence/pet_crypto)
 
 <h3 align="left">Skills:</h3>
 
