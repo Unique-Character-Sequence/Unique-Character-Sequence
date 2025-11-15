@@ -3,7 +3,7 @@
 
 <h3 align="left">Looking for new opportunities:</h3>
 
-- 🌟 Unemployed and actively seeking new challenges
+- 🌟 Actively seeking new challenges
 - 🚀 Open to frontend development roles
 - 🌍 Ready to contribute and grow in a dynamic team
 
