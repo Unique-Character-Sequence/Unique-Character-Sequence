@@ -26,7 +26,7 @@
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
-  <a href="https://t.me/aveDeaNocti">
+  <a href="https://t.me/voyager_444">
     <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="mailto:pilici.rustam@gmail.com">
