@@ -7,7 +7,7 @@
 - 🚀 Open to frontend development roles
 - 🌍 Ready to contribute and grow in a dynamic team
 
-<h3 align="left">Finished Projects:</h3>
+<h3 align="left">Some finished Projects:</h3>
 
 <!-- Project 1: Java Academy (Portfolio Project) -->
 - 🔭 [Java Academy](https://github.com/Unique-Character-Sequence/java-academy-portfolio)
